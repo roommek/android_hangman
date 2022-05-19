@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="levelSpinner">
+        <item>Easy (1-4 chars)</item>
+        <item>Medium (5-8 chars) </item>
+        <item>Hard (9+ chars)</item>
+    </string-array>
+    <string-array name="languageSpinner">
+        <item>English</item>
+        <item>Polish</item>
+    </string-array>
+</resources>
